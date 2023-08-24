@@ -1,0 +1,2 @@
+| Ma SP      | Ten SP                         | So luong   | Tinh trang      |
+| SP003      | Com Chien                      | 120        | Ton kho         |
